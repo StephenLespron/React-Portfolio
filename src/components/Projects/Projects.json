@@ -1,0 +1,75 @@
+[
+	{
+		"title": "Crayon-Box",
+		"description": "Crayon-Box was a collaborative project with some fellow student developers. We built an app that children can illustrate, write and share picture books.\n \n Project built with <a href=\"https://www.linkedin.com/in/lauren-brocious-rowley/\" target=\"_blank\">Lauren Rowley</a>, <a href=\"https://www.linkedin.com/in/moriahgreenstein/\" target=\"_blank\">Moriah Greenstein</a> and <a href=\"https://www.linkedin.com/in/andyb95/\" target=\"_blank\">Andy Beutler</a>",
+		"date": "7-24-20",
+		"tech": [
+			"ReactJs",
+			"Redux + BrowserRouter",
+			"NodeJS/Express/Massive",
+			"BCrypt",
+			"postgreSQL",
+			"and others..."
+		],
+		"image": "/images/images/crayon-box-preview.png",
+		"github": "https://github.com/Crayon-Box-wr1/crayon-box-wr1",
+		"site": ""
+	},
+	{
+		"title": "Fantasy Football Draft App",
+		"description": "This was a solo project which can conduct a live Fantasy football draft using the ESPN Player API. The purpose of this tool is to assist in a live draft conducted 'in-person' versus using the host-site's tool.",
+		"date": "7-1-20",
+		"tech": [
+			"ReactJs",
+			"Redux + BrowserRouter",
+			"NodeJS/Express/Massive",
+			"BCrypt",
+			"postgreSQL",
+			"Nodemailer",
+			"ChartJs",
+			"and others..."
+		],
+		"image": "/images/images/fantasy_site_preview.png",
+		"github": "https://github.com/StephenLespron/Fantasy-Football-Draft-Site",
+		"site": "https://fantasy-app.lespron.dev"
+	},
+	{
+		"title": "Helo",
+		"description": "This assignment was required to be completed within 3 days. We were given screen shots of what the site should look like and a description of the functionality. All code originates from me.",
+		"date": "6-10-20",
+		"tech": [
+			"ReactJs",
+			"Redux + HashRouter",
+			"NodeJS/Express/Massive",
+			"BCrypt",
+			"postgreSQL"
+		],
+		"image": "/images/images/helo-preview.png",
+		"github": "https://github.com/StephenLespron/helo",
+		"site": ""
+	},
+	{
+		"title": "Shelfie",
+		"description": "Shelfie was also an assignment that was required to be completed within 3 days. As with Helo, the code is my work while DevMountain provided a walk-through and a description of the functionality",
+		"date": "5-29-20",
+		"tech": [
+			"ReactJs",
+			"Redux + HashRouter",
+			"NodeJS/Express/Massive",
+			"BCrypt",
+			"postgreSQL"
+		],
+		"image": "/images/images/shelfie-preview.png",
+		"github": "https://github.com/StephenLespron/skillsCheck2",
+		"site": ""
+	},
+	{
+		"title": "Ballparks Visited App",
+		"description": "This is the first original project I created. We were asked to create a no database site of our choosing. This site is a simple blog that tracks visits to various MLB ballparks and rates their experience.",
+		"date": "5-25-20",
+		"tech": ["ReactJs", "HashRouter", "NodeJS", "Express", "BCrypt"],
+		"image": "/images/images/ballparks-preview.png",
+		"github": "https://github.com/StephenLespron/BallparksVisited",
+		"site": ""
+	}
+]
